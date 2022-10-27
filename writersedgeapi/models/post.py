@@ -1,6 +1,7 @@
 from django.db import models
 from .WEUser import WEUser
 
+
 class Post(models.Model):
     title = models.CharField(max_length=55)
     content = models.CharField(max_length=270)

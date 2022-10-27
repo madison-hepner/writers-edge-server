@@ -2,6 +2,7 @@ from django.db import models
 from .prompt import Prompt
 from .prompt_type import Prompt_Type
 from .WEUser import WEUser
+from datetime import datetime
 
 class PromptPost(models.Model):
     title = models.CharField(max_length=55)
