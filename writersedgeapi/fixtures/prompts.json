@@ -1,0 +1,50 @@
+[
+    {
+        "model": "writersedgeapi.prompt",
+        "pk": 1,
+        "fields": {
+            "title": "It is over cast, and dreary...",
+            "prompt_typeId": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt",
+        "pk": 2,
+        "fields": {
+            "title": "Write about a mountain",
+            "prompt_typeId": 2
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt",
+        "pk": 3,
+        "fields": {
+            "title": "Trees whip back and forth in the wind. It's odd, because fog settles over the land calmly. The river nearby seems to grow...",
+            "prompt_typeId": 3
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt",
+        "pk": 4,
+        "fields": {
+            "title": "Imagine you went to the zoo and could take home any animal for the day.  Tell a story about your time together, and the wisdom the animal holds.",
+            "prompt_typeId": 4
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt",
+        "pk": 5,
+        "fields": {
+            "title": "Have you ever been proud of something that you knew you would get in trouble for? Write about it...",
+            "prompt_typeId": 9
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt",
+        "pk": 6,
+        "fields": {
+            "title": "A blessing in disguise (but for the wrong person), ends up benefiting the enemy.",
+            "prompt_typeId": 11
+        }
+    }
+]

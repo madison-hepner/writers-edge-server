@@ -1,0 +1,68 @@
+[
+    {
+        "model": "writersedgeapi.promptpost",
+        "pk": 1,
+        "fields": {
+            "title": "It is over cast, and dreary...",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "promptId": 1,
+            "prompt_typeId": 1,
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.promptpost",
+        "pk": 2,
+        "fields": {
+            "title": "Write about a mountain",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "promptId": 2,
+            "prompt_typeId": 2,
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.promptpost",
+        "pk": 3,
+        "fields": {
+            "title": "Trees whip back and forth in the wind. It's odd, because fog settles over the land calmly. The river nearby seems to grow...",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "promptId": 3,
+            "prompt_typeId": 3,
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.promptpost",
+        "pk": 4,
+        "fields": {
+            "title": "Imagine you went to the zoo and could take home any animal for the day.  Tell a story about your time together, and the wisdom the animal holds.",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "promptId": 4,
+            "prompt_typeId": 4,
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.promptpost",
+        "pk": 5,
+        "fields": {
+            "title": "Have you ever been proud of something that you knew you would get in trouble for? Write about it...",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "promptId": 5,
+            "prompt_typeId": 9,
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.promptpost",
+        "pk": 6,
+        "fields": {
+            "title": "A blessing in disguise (but for the wrong person), ends up benefiting the enemy.",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "promptId": 6,
+            "prompt_typeId": 11,
+            "weuser": 1
+        }
+    }
+]

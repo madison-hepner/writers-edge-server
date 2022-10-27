@@ -1,0 +1,212 @@
+[
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 1,
+        "fields": {
+            "prompt_type": "Moody"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 2,
+        "fields": {
+            "prompt_type": "Scenery"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 3,
+        "fields": {
+            "prompt_type": "Horror"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 4,
+        "fields": {
+            "prompt_type": "Narrative"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 5,
+        "fields": {
+            "prompt_type": "Descriptive"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 6,
+        "fields": {
+            "prompt_type": "Expository"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 7,
+        "fields": {
+            "prompt_type": "Persuasive"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 8,
+        "fields": {
+            "prompt_type": "Reflective"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 9,
+        "fields": {
+            "prompt_type": "Personal"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 10,
+        "fields": {
+            "prompt_type": "Humorous"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 11,
+        "fields": {
+            "prompt_type": "Ironic"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 12,
+        "fields": {
+            "prompt_type": "Cheerful"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 13,
+        "fields": {
+            "prompt_type": "Plot Twist"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 14,
+        "fields": {
+            "prompt_type": "Animal"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 15,
+        "fields": {
+            "prompt_type": "Plant"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 16,
+        "fields": {
+            "prompt_type": "Fate"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 17,
+        "fields": {
+            "prompt_type": "Memoir"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 18,
+        "fields": {
+            "prompt_type": "Fantasy"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 19,
+        "fields": {
+            "prompt_type": "Sci-Fi"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 20,
+        "fields": {
+            "prompt_type": "Dystopian"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 21,
+        "fields": {
+            "prompt_type": "Contemporary"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 22,
+        "fields": {
+            "prompt_type": "Romance"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 23,
+        "fields": {
+            "prompt_type": "Mystery"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 24,
+        "fields": {
+            "prompt_type": "Morals"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 25,
+        "fields": {
+            "prompt_type": "Health"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 26,
+        "fields": {
+            "prompt_type": "Love"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 27,
+        "fields": {
+            "prompt_type": "Childhood"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 28,
+        "fields": {
+            "prompt_type": "Happiness"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 29,
+        "fields": {
+            "prompt_type": "Bright"
+        }
+    },
+    {
+        "model": "writersedgeapi.prompt_type",
+        "pk": 30,
+        "fields": {
+            "prompt_type": "Transformative"
+        }
+    }
+]

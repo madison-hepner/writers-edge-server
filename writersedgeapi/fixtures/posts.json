@@ -1,0 +1,56 @@
+[
+    {
+        "model": "writersedgeapi.post",
+        "pk": 1,
+        "fields": {
+            "title": "Normal Post Example 1",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.post",
+        "pk": 2,
+        "fields": {
+            "title": "Normal Post Write Example 2",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.post",
+        "pk": 3,
+        "fields": {
+            "title": "Normal Post Example 3",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.post",
+        "pk": 4,
+        "fields": {
+            "title": "Normal Post Example 4",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.post",
+        "pk": 5,
+        "fields": {
+            "title": "Normal Post Example 5",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "weuser": 1
+        }
+    },
+    {
+        "model": "writersedgeapi.post",
+        "pk": 6,
+        "fields": {
+            "title": "Normal Post Example 6",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat. Non pulvinar neque laoreet suspendisse interdum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Pellentesque habitant morbi tristique senectus et netus et malesuada. Vitae turpis massa sed elementum tempus egestas.",
+            "weuser": 1
+        }
+    }
+]
